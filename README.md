@@ -1,1 +1,1 @@
-Simple commandline hangman game coded using C++
+Simple command line hangman game coded using C++
