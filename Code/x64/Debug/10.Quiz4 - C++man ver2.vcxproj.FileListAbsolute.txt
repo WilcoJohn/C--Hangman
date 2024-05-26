@@ -1,0 +1,2 @@
+B:\Visual Studio\Learn CPP\16.Containers&Arrays\10.Quiz4 - C++man ver2\x64\Debug\10.Quiz4 - C++man ver2.exe
+E:\Learn CPP\16.Containers&Arrays\10.Quiz4 - C++man ver2\x64\Debug\10.Quiz4 - C++man ver2.exe
